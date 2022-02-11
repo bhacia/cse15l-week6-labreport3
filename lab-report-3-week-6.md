@@ -2,11 +2,11 @@
 This will be a tutorial to show you how to long into `ieng6` much easier **and** faster!
 
 ## Steps
-1. In VS Code, open a folder named `**.ssh**`.
+1. In VS Code, open a folder named `.ssh`.
 
 ![Image](https://bhacia.github.io/cse15l-week6-labreport3/vscode-open-ssh-folder.png)
 
-2. See if you have a file named `**config**`.
+2. See if you have a file named `config`.
 
 ![Image](https://bhacia.github.io/cse15l-week6-labreport3/vscode-see-if-you-have-config-file.png)
 
