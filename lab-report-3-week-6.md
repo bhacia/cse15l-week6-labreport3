@@ -38,7 +38,9 @@ See how much easier and faster that is?!
 
 6. Log out of the server by typing `exit` in the command line.
 
-7. Open a different folder and use the `scp` command to copy a file to the server.
+7. Open a different folder and use the `scp` command to copy a file to the server. Then use the
+`ssh ieng6` command again to log onto the server and use the `ls` command to see if the file
+you moved is there.
 
 ![Image](https://bhacia.github.io/cse15l-week6-labreport3/vscode-scp-file.png)
 
